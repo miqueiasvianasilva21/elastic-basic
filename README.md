@@ -7,6 +7,7 @@ Na pasta server instale as dependências
 ```bash
 python3 -m pip install pandas==1.4.3 notebook==6.3.0 elasticsearch==8.7.0
 ```
+Ainda na pasta server copie o arquivo amazon_products.csv
 
 Rode o arquivo elastic.py
 ```bash
